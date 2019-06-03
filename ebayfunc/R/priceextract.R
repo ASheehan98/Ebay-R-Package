@@ -9,6 +9,5 @@ price_extract = function(x) {
   adjust3 = as.numeric(adjust2)
   sansfirstentry = adjust3[-c(1)]
   sansfirstentry
-  
 }
 
